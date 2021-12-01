@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "648464557474",
+    "project_id": "scopictest-7c9af",
+    "storage_bucket": "scopictest-7c9af.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:648464557474:android:f23baa3fff9d79ee253efb",
+        "android_client_info": {
+          "package_name": "com.scopictest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "648464557474-j4ugp30phhohn6a0o2so4od9om148ipd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDFB9tLsCjK1ZYZKcxeH7jzcVzCHp1BTcc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "648464557474-j4ugp30phhohn6a0o2so4od9om148ipd.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "648464557474-juchku4shsege5mjv7gfhkb159shumk4.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "org.reactjs.native.example.ScopicTest"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
